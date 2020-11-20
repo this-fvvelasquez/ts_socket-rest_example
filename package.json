@@ -1,0 +1,26 @@
+{
+  "name": "ts_socket-rest-express_example",
+  "version": "0.0.0",
+  "description": "Ejemplo básico para entender el uso de socket.io, express, con TypeScript, NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/"
+  },
+  "keywords": [
+    "socket",
+    "io",
+    "express",
+    "rest",
+    "ts"
+  ],
+  "author": "fvvelasquez this.fvvelasquez@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.9",
+    "@types/socket.io": "^2.1.11"
+  }
+}
