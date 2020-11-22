@@ -1,4 +1,4 @@
-[preview](PREVIEW.png)
+![preview](PREVIEW.png)
 
 # EXPRESS APPLICATION SERVER - Node example.
 
